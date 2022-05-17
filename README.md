@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there I'm @jasper-u 👋
+🌱 I’m currently learning C# / .NET core
 <!--
 **jasper-u/jasper-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
